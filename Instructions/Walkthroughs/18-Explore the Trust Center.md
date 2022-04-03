@@ -1,38 +1,44 @@
 ---
 wts:
-    title: '18 - 探索信任中心 (5 分鐘)'
-    module: '模組 05：描述身分識別、控管、隱私權和合規性功能'
+  title: 18 - 探索信任中心 (5 分鐘)
+  module: 'Module 05: Describe identity, governance, privacy, and compliance features'
+ms.openlocfilehash: 9da8a5f2822210408827106be4094e14ddc4baa4
+ms.sourcegitcommit: 26c283fffdd08057fdce65fa29de218fff21c7d0
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137907434"
 ---
-# 18 - 探索 Microsoft 合規性產品 (5 分鐘)
+# <a name="18---explore-microsoft-compliance-offerings-5-min"></a>18 - 探索 Microsoft 合規性產品 (5 分鐘)
 
 在這個逐步解說中，我們將存取合規性產品、服務信任入口網站 (STP) 和合規性管理員。 
 
-# 工作 1：存取 Microsoft 合規性產品
+# <a name="task-1-access-microsoft-compliance-offerings"></a>工作 1：存取 Microsoft 合規性產品
 
-1. 在瀏覽器中，導覽到[合規性產品](https://docs.microsoft.com/zh-tw/compliance/regulatory/offering-home)頁面。
+1. 在瀏覽器中，導覽到[合規性產品](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home)頁面。
 
 2. 在 [合規性產品] 頁面，注意產品分組為 [**全域**]、[**美國政府**]、[**行業**] 和 [**區域**]。
 
-3. 在 **[全域]** 分組中，按一下 **ISO 27001**。滾動瀏覽提供的資訊。向下滾動頁面將帶您進入 [**專門針對 Azure 的合規性產品**] 區段
+3. 在 **[全域]** 分組中，按一下 **ISO 27001**。 滾動瀏覽提供的資訊。 向下滾動頁面將帶您進入 [**專門針對 Azure 的合規性產品**] 區段
 
     **注意：** ISO27001 資訊安全性管理標準頁面是我們提供的典型的合規性資訊類型。
 
 
-# 工作 2：存取服務信任入口網站 (STP)
+# <a name="task-2-access-the-service-trust-portal-stp"></a>工作 2：存取服務信任入口網站 (STP)
 
 1. 在瀏覽器中，導覽到[服務信任入口網站](https://servicetrust.microsoft.com/)頁面。
 
-2. 注意 [**稽核報告**] 區段。在本節中，將介紹不同 Microsoft 雲端服務的獨立稽核報告。如果您想嘗試使用合規性管理員，則需要登入。
+2. 注意 [**稽核報告**] 區段。 在本節中，將介紹不同 Microsoft 雲端服務的獨立稽核報告。 如果您想嘗試使用合規性管理員，則需要登入。
 
-3. 所有稽核可能需要幾分鐘才能加載。您需要登入到 Microsoft 帳戶才能檢視特定報告。
+3. 所有稽核可能需要幾分鐘才能加載。 您需要登入到 Microsoft 帳戶才能檢視特定報告。
 
 
-# 工作 3：投顧國服務信任入口網站存取合規性管理員
+# <a name="task-3-access-the-compliance-manager-via-the-service-trust-portal"></a>工作 3：投顧國服務信任入口網站存取合規性管理員
 
-合規性管理員使對 Microsoft 雲端服務執行風險評估變得非常容易。使用合規性管理員管理組織從實作到報告製作的合規性活動。 
+合規性管理員使對 Microsoft 雲端服務執行風險評估變得非常容易。 使用合規性管理員管理組織從實作到報告製作的合規性活動。 
 
-1. 如果從工作 2 開始瀏覽器視窗仍處於開啟狀態，請轉至步驟 2。否則，請在瀏覽器中，導覽到[合規性管理員](https://servicetrust.microsoft.com/ComplianceManager)頁面。 
+1. 如果從工作 2 開始瀏覽器視窗仍處於開啟狀態，請轉至步驟 2。 否則，請在瀏覽器中，導覽到[合規性管理員](https://servicetrust.microsoft.com/ComplianceManager)頁面。 
 
-2. 向下滾動到 [**稽核報告**]。檢查一遍。
+2. 向下滾動到 [**稽核報告**]。 檢查一遍。
 
-恭喜！在這個逐步解說中，您已存取了信任中心、服務信任入口網站 (STP) 和合規性管理員。
+恭喜！ 在這個逐步解說中，您已存取了信任中心、服務信任入口網站 (STP) 和合規性管理員。
