@@ -2,12 +2,12 @@
 wts:
   title: 01 – 在入口網站中建立虛擬機器 (10 分鐘)
   module: Module 02 - Core Azure Services (Workloads)
-ms.openlocfilehash: 2e2a613f965d41405b025166876b28be391f10d8
-ms.sourcegitcommit: 26c283fffdd08057fdce65fa29de218fff21c7d0
+ms.openlocfilehash: 010d6a19a66f6ac92627720379a4eb850b2ee423
+ms.sourcegitcommit: 4a0bfef63f98844f16e2a364d156e96382b8fac5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137907530"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "144556867"
 ---
 # <a name="01---create-a-virtual-machine-in-the-portal-10-min"></a>01 – 在入口網站中建立虛擬機器 (10 分鐘)
 
@@ -18,7 +18,7 @@ ms.locfileid: "137907530"
 # <a name="task-1-create-the-virtual-machine"></a>工作 1：建立虛擬機器 
 1. 登入 Azure 入口網站： **https://portal.azure.com**
 
-3. 從入口網站功能表的 [**所有服務**] 刀鋒視窗，搜尋並選取 [**虛擬機器**]，然後按一下 [ **+ 新增、+ 建立、+ 新建**]，並從下拉式功能表中選擇 [ **+虛擬機器**]。
+3. 從入口網站功能表的 [所有服務] 刀鋒視窗，搜尋並選取 [虛擬機器]，然後按一下 [+建立]，再從下拉式功能表中選擇 [+Azure 虛擬機器]。
 
 4. 在 [**基本**] 索引標籤中，填充下列資訊 (其他內容保留預設值)：
 
